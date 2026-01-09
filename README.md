@@ -95,8 +95,15 @@ IRIS FLOWER PROJECT
 
 - pip install -r requirements.txt
 - streamlit run app.py
-   
 
+---
+
+### 📌 Live Demo
+
+🔗 **Streamlit App:**  
+(https://spandan-24-iris-flower-classification.streamlit.app/)
+
+---
 
 ## 👨‍💻 Author
 
