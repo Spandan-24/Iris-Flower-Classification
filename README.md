@@ -82,21 +82,19 @@ The Streamlit application allows users to:
 
 ## 📁 Project Structure
 
-IRIS FLOWER PROJECT/
-│
-├── app.py
-├── knn_iris_model.pkl
-├── scaler.pkl
-├── requirements.txt
-└── README.md
+IRIS FLOWER PROJECT
+- ├── app.py
+- ├── knn_iris_model.pkl
+- ├── scaler.pkl
+- ├── requirements.txt
+- └── README.md
 
 ---
 
 ## ▶️ How to Run the Project Locally
 
 - pip install -r requirements.txt
--  Run the Streamlit application : 
-    streamlit run app.py
+- streamlit run app.py
    
 
 
