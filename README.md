@@ -1,11 +1,14 @@
 # Iris-Flower-Classification
 This project implements a machine learning–based Iris flower classification system using the K-Nearest Neighbors (KNN) algorithm. The model classifies Iris flowers into Setosa, Versicolor, and Virginica based on four physical features: sepal length, sepal width, petal length, and petal width.
 
-🌸 Iris Flower Classification using KNN | Streamlit Web App
+🌸 Iris Flower Classification using KNN | Streamlit Web App.
+
+
 📌 Project Description
 
 This project develops an Iris flower classification model using supervised machine learning. The algorithm applied is K-Nearest Neighbors (KNN), which predicts the species—Setosa, Versicolor, or Virginica—based on four morphological attributes: sepal length, sepal width, petal length, and petal width.
 The project follows a complete end-to-end machine learning workflow, including data preprocessing, model training, evaluation, and deployment as an interactive Streamlit web application.
+
 
 
 🚀 Key Features
@@ -21,6 +24,7 @@ User-friendly and interactive interface
 Cloud-deployable and shareable via URL
 
 
+
 🧠 Machine Learning Workflow
 
 Load and explore the Iris dataset
@@ -30,6 +34,8 @@ Train KNN classifier with optimal K value
 Evaluate model using accuracy and confusion matrix
 Save trained model and scaler
 Deploy model using Streamlit for real-time predictions
+
+
 
 📊 Dataset Information
 
@@ -48,6 +54,7 @@ Versicolor
 Virginica
 
 
+
 🌐 Web Application
 
 The Streamlit application allows users to:
@@ -55,6 +62,8 @@ Adjust flower measurements using sliders
 Instantly view predicted Iris species
 See prediction probabilities
 Visualize the confusion matrix
+
+
 
 🛠️ Technologies Used
 
@@ -67,7 +76,10 @@ Seaborn
 Streamlit
 Joblib
 
+
+
 📁 Project Structure
+
 IRIS FLOWER PROJECT
 │
 ├── app.py
@@ -76,6 +88,7 @@ IRIS FLOWER PROJECT
 ├── requirements.txt
 └── README.md
 
+
 ▶️ How to Run Locally
 pip install -r requirements.txt
 streamlit run app.py
@@ -83,5 +96,5 @@ streamlit run app.py
 
 👨‍💻 Author
 
-Developed by SPANDAN KARFA
+Developed by SPANDAN KARFA.
 Machine Learning & Data Science Enthusiast
